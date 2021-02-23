@@ -1,0 +1,29 @@
+{
+    "clientId": "806008614942539817",
+    "activity": {
+        "details": "Ciee Stalking :v",
+        "state": "Hii~",
+        "assets": {
+            "image": {
+                "small": {
+                    "name": "logo2",
+                    "text": "IZ*ONE"
+                },
+                "large": {
+                    "name": "eunbi",
+                    "text": "Kwon Eunbi"
+                }
+            }
+        },
+        "buttons": {
+            "v1": {
+                "title": "Subscribe SLOW REV",
+                "url": "https://youtube.com/c/slowrevchannel"
+            },
+            "v2": {
+                "title": "Subscribe IZ*ONE",
+                "url": "https://www.youtube.com/channel/UCe_oTYByLWQYCUmgmOMU_xw"
+            }
+        }
+    }
+}
